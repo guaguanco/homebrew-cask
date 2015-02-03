@@ -1,6 +1,6 @@
 cask :v1 => 'itsycal' do
-  version '0.8.12'
-  sha256 '1b138d7ddce1ac725c7fd0146225dd50f1bad90b62cf727fe89c636c4281e697'
+  version '0.8.15'
+  sha256 '6470719a1f702c807f98a992880def5f499858231bf35924eaf3e0d5df48b436'
 
   # amazonaws.com is the official download host per the vendor homepage
   url "https://s3.amazonaws.com/itsycal/Itsycal-#{version}.zip"
